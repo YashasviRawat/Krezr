@@ -18,6 +18,12 @@ When the driver overrides the maximum speed an alert message is given in the for
 ASSESTS
 https://mail.google.com/mail/u/0/#inbox/15e602b203ad5ef0?projector=1
 
+
+<font size="6" color="red">UNIQUE FEATURES:-</font><BR>
+1. Lottie animations<br>
+2.  Unit converter<br>
+3.  Emergency call<br>
+
 <font size="6" color="red">TEAM MEMBERS:-</font>
 <i> Kartik Shandilya
   Praneet Nigam
